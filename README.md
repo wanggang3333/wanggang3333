@@ -1,4 +1,4 @@
-### Hello World ,im [WangGang]() 👋 
+### Hello World ,I am [WangGang]() 👋 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wanggang3333&show_icons=true)
 
