@@ -1,6 +1,6 @@
 ### Hello World ,I am [Wang Gang]() 👋 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wanggang3333&show_icons=true)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanggang3333&count_private=true&show_icons=true)
 
 
 - 🔭 Nice to meet you！
